@@ -17,7 +17,7 @@ public class Firefox2 {
 		 Navigation navigation = driver.navigate();
 		 navigation.to("http://www.baidu.com/");
 		 System.out.println("start firefox browser succeed...");
-		 
+//此时浏览器成功打开，需要手动将其关闭即可		 
 	}
 
 }
